@@ -1,0 +1,53 @@
+{
+  "favorites": [
+    {
+      "id": 436270,
+      "name": "Black Adam",
+      "image": "https://image.tmdb.org/t/p/original/qxeqKcVBWnQxUp1w6fwWcxZEA6m.jpg",
+      "vote": 7.158,
+      "releaseDate": "2022-10-19"
+    },
+    {
+      "id": 616820,
+      "name": "Halloween Ends",
+      "image": "https://image.tmdb.org/t/p/original/aTovumsNlDjof7YVoU5nW2RHaYn.jpg",
+      "vote": 6.671,
+      "releaseDate": "2022-10-12"
+    },
+    {
+      "id": 779782,
+      "name": "The School for Good and Evil",
+      "image": "https://image.tmdb.org/t/p/original/tSxbUnrnWlR5dQvUgqMI7sACmFD.jpg",
+      "vote": 7.471,
+      "releaseDate": "2022-10-19"
+    },
+    {
+      "id": 718930,
+      "name": "Bullet Train",
+      "image": "https://image.tmdb.org/t/p/original/zt6sKnx9dEiRCb7oVMlfmmMGJMO.jpg",
+      "vote": 7.52,
+      "releaseDate": "2022-07-03"
+    },
+    {
+      "id": 894205,
+      "name": "Werewolf by Night",
+      "image": "https://image.tmdb.org/t/p/original/pfAZP7JvTTxqgq7n6A1OYgkAdEW.jpg",
+      "vote": 7.207,
+      "releaseDate": "2022-09-25"
+    },
+    {
+      "id": 800939,
+      "name": "Ticket to Paradise",
+      "image": "https://image.tmdb.org/t/p/original/ulyR4pWVMRtVcanoassVbmgfEPT.jpg",
+      "vote": 6.735,
+      "releaseDate": "2022-09-08"
+    },
+    {
+      "id": 619730,
+      "name": "Don't Worry Darling",
+      "image": "https://image.tmdb.org/t/p/original/4O9kFXsBjlxtgzXWHfgMS9CjhbN.jpg",
+      "vote": 6.859,
+      "releaseDate": "2022-09-21"
+    }
+  ]
+}
